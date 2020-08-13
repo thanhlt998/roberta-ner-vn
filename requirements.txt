@@ -1,0 +1,10 @@
+fastai2
+torch
+scikit_learn
+pandas
+numpy
+transformers
+fastBPE
+fairseq
+pytorch-crf
+vncorenlp
