@@ -1,4 +1,4 @@
-fastai2
+fastai
 torch
 scikit_learn
 pandas
